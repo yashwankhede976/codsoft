@@ -1,0 +1,8 @@
+Customer Churn Prediction - Model Summary
+=============================================
+Best model: Gradient Boosting
+
+              model  accuracy  precision   recall  f1_score  roc_auc
+  Gradient Boosting    0.8710   0.787645 0.501229  0.612613 0.870389
+      Random Forest    0.8595   0.766949 0.444717  0.562986 0.854345
+Logistic Regression    0.7135   0.387228 0.700246  0.498688 0.777165
