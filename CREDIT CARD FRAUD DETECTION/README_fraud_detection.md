@@ -1,4 +1,4 @@
-# CREDIT CARD FRAUD DETECTION
+# Credit Card Fraud Detection
 
 This project trains and compares three classifiers on the Kaggle fraud dataset:
 
