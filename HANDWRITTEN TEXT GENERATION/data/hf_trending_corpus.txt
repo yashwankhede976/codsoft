@@ -1,0 +1,119 @@
+Title: TradingAgents: Multi-Agents LLM Financial Trading Framework
+Summary: A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+
+Title: VibeVoice Technical Report
+Summary: VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
+
+Title: GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0)
+Summary: GenericAgent is a self-evolving large language model agent system that maximizes context information density through hierarchical memory, reusable SOPs, and efficient compression to overcome long-horizon limitations.
+
+Title: Kronos: A Foundation Model for the Language of Financial Markets
+Summary: Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
+
+Title: Geometric Context Transformer for Streaming 3D Reconstruction
+Summary: LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
+
+Title: Representation Fréchet Loss for Visual Generation
+Summary: Fréchet Distance can be effectively optimized as a training objective when decoupling population size from batch size, leading to improved generator quality and alternative evaluation metrics.
+
+Title: MinerU2.5: A Decoupled Vision-Language Model for Efficient High-Resolution Document Parsing
+Summary: MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+
+Title: A decoder-only foundation model for time-series forecasting
+Summary: A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
+
+Title: Efficient Memory Management for Large Language Model Serving with PagedAttention
+Summary: PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+Title: RAG-Anything: All-in-One RAG Framework
+Summary: RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
+
+Title: Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory
+Summary: Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
+
+Title: AutoDev: Automated AI-Driven Development
+Summary: AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
+
+Title: SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion
+Summary: SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
+
+Title: MoCapAnything V2: End-to-End Motion Capture for Arbitrary Skeletons
+Summary: A fully end-to-end framework for arbitrary-skeleton motion capture that jointly optimizes video-to-pose and pose-to-rotation prediction while addressing rotation ambiguity through reference pose-rotation pairs and skeleton-aware attention mechanisms.
+
+Title: Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation
+Summary: Tuna-2 is a unified multimodal model that performs visual understanding and generation directly from pixel embeddings without pretrained vision encoders, achieving state-of-the-art performance in multimodal benchmarks.
+
+Title: OpenGame: Open Agentic Coding for Games
+Summary: OpenGame is an open-source agentic framework for end-to-end web game creation that uses specialized code models and evaluation benchmarks to overcome challenges in interactive application development.
+
+Title: Tequila: Trapping-free Ternary Quantization for Large Language Models
+Summary: Tequila, a trapping-free quantization method, enhances ternary quantization of Large Language Models by repurposing deadzone-trapped weights as dynamic biases, improving accuracy and inference speed.
+
+Title: OpenDevin: An Open Platform for AI Software Developers as Generalist Agents
+Summary: OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+
+Title: PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model
+Summary: PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
+
+Title: Recursive Multi-Agent Systems
+Summary: RecursiveMAS extends recursive scaling principles from single models to multi-agent systems, enabling collaborative reasoning through iterative latent-space computations with improved efficiency and accuracy.
+
+Title: LTX-2: Efficient Joint Audio-Visual Foundation Model
+Summary: LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
+
+Title: World-R1: Reinforcing 3D Constraints for Text-to-Video Generation
+Summary: World-R1 framework improves video generation by incorporating 3D constraints through reinforcement learning and specialized text datasets while maintaining visual quality and scalability.
+
+Title: SignRoundV2: Closing the Performance Gap in Extremely Low-Bit Post-Training Quantization for LLMs
+Summary: SignRoundV2, a post-training quantization framework, achieves competitive accuracy for Large Language Models at extremely low-bit quantization through layer-wise bit allocation and pre-tuning scale search.
+
+Title: LightRAG: Simple and Fast Retrieval-Augmented Generation
+Summary: LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+
+Title: RF-DETR: Neural Architecture Search for Real-Time Detection Transformers
+Summary: RF-DETR, a light-weight detection transformer, uses weight-sharing NAS to optimize accuracy and latency for real-time detection across diverse datasets.
+
+Title: Agent READMEs: An Empirical Study of Context Files for Agentic Coding
+Summary: Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
+
+Title: Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models
+Summary: Researchers developed TIDE, a framework for cross-architecture distillation of diffusion large language models that improves performance through specialized modules for distillation strength modulation, context enrichment, and cross-tokenizer objectives.
+
+Title: OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation
+Summary: A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spoken dialogue through a multi-stage post-training technique that integrates speech and text without altering the original model's architecture.
+
+Title: DeepSeek-V3 Technical Report
+Summary: DeepSeek-V3 is a parameter-efficient Mixture-of-Experts language model using MLA and DeepSeekMoE architectures, achieving high performance with efficient training and minimal computational cost.
+
+Title: Vista4D: Video Reshooting with 4D Point Clouds
+Summary: Vista4D presents a video reshooting framework that uses 4D point cloud representation to synthesize scenes from new viewpoints while maintaining 4D consistency and camera control.
+
+Title: LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models
+Summary: LlamaFactory is a unified framework enabling efficient fine-tuning of large language models across various tasks using a web-based user interface.
+
+Title: LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels
+Summary: LeWorldModel presents a stable end-to-end JEPA framework that trains efficiently from raw pixels using minimal loss terms while maintaining competitive performance in control tasks and encoding meaningful physical structures.
+
+Title: Self-Supervised Prompt Optimization
+Summary: A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
+
+Title: Zep: A Temporal Knowledge Graph Architecture for Agent Memory
+Summary: Zep, a memory layer service, outperforms MemGPT in the DMR benchmark and LongMemEval by excelling in dynamic knowledge integration and temporal reasoning, critical for enterprise use cases.
+
+Title: AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets
+Summary: AI-Trader presents the first fully automated live benchmark for evaluating large language models in financial decision-making across multiple markets with autonomous information processing.
+
+Title: AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications
+Summary: AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
+
+Title: Very Large-Scale Multi-Agent Simulation in AgentScope
+Summary: Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
+
+Title: Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems
+Summary: The study analyzes Claude Code's architecture, identifying five motivating human values and tracing them through thirteen design principles to specific implementation choices, including a core while-loop architecture and supporting systems for safety, context management, and extensibility.
+
+Title: EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery
+Summary: EvoScientist is an adaptive multi-agent framework that enhances scientific discovery by continuously learning from past interactions through persistent memory modules.
+
+Title: Recursive Language Models
+Summary: We study allowing large language models (LLMs) to process arbitrarily long prompts through the lens of inference-time scaling. We propose Recursive Language Models (RLMs), a general inference strategy that treats long prompts as part of an external environment and allows the LLM to programmatically examine, decompose, and recursively call itself over snippets of the prompt. We find that RLMs successfully handle inputs up to two orders of magnitude beyond model context windows and, even for shorter prompts, dramatically outperform the quality of base LLMs and common long-context scaffolds across four diverse long-context tasks, while having comparable (or cheaper) cost per query.
