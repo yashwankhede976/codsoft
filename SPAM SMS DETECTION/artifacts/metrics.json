@@ -1,0 +1,59 @@
+{
+  "dataset_slug": "uciml/sms-spam-collection-dataset",
+  "dataset_csv": "C:\\Users\\umesh\\.cache\\kagglehub\\datasets\\uciml\\sms-spam-collection-dataset\\versions\\1\\spam.csv",
+  "dataset_size": 5572,
+  "train_size": 4457,
+  "test_size": 1115,
+  "best_model_name": "linear_svm",
+  "leaderboard": {
+    "naive_bayes": {
+      "accuracy": 0.9695067264573991,
+      "precision": 1.0,
+      "recall": 0.7718120805369127,
+      "f1": 0.8712121212121212,
+      "confusion_matrix": [
+        [
+          966,
+          0
+        ],
+        [
+          34,
+          115
+        ]
+      ]
+    },
+    "logistic_regression": {
+      "accuracy": 0.9847533632286996,
+      "precision": 0.9583333333333334,
+      "recall": 0.9261744966442953,
+      "f1": 0.9419795221843004,
+      "confusion_matrix": [
+        [
+          960,
+          6
+        ],
+        [
+          11,
+          138
+        ]
+      ]
+    },
+    "linear_svm": {
+      "accuracy": 0.9865470852017937,
+      "precision": 0.9855072463768116,
+      "recall": 0.912751677852349,
+      "f1": 0.9477351916376306,
+      "confusion_matrix": [
+        [
+          964,
+          2
+        ],
+        [
+          13,
+          136
+        ]
+      ]
+    }
+  },
+  "model_path": "artifacts\\best_sms_spam_model.joblib"
+}
